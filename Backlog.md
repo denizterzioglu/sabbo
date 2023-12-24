@@ -14,3 +14,7 @@ Anforderungen an Notebook:
 - Funktionen für versch. Funktionalitäten
 - Mit Markdown für Gedanken annotieren
    
+23.12.2023:
+Gökay: 6h
+Anna: 9.5h
+Deniz: 0h
