@@ -6,6 +6,8 @@ Besprechung von Kapplan-Meier-Erstellung, Erstellung und Verteilung weiterführe
 4. Cox Proportional Hazard: Ist das besser als Kaplan-Meier? @Gökay
 <br>
 Am 28.12.2023 11:00Uhr: Besprechung des Notebooks
+- Über Alternativen für Vorhersage von Runtimes diskutieren
+
 
 Anforderungen an Notebook:
 - Sauber
