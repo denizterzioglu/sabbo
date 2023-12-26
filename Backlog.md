@@ -18,3 +18,6 @@ Anforderungen an Notebook:
 Gökay: 6h
 Anna: 9.5h
 Deniz: 0h
+<br>
+25.12.2023:
+Anna: 7.5h
