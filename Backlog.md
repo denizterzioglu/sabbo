@@ -23,4 +23,5 @@ Deniz: 0h
 Anna: 7.5h
 
 26.12.2023:
+Gökay: 3h
 Anna: 7h
