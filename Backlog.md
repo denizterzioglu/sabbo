@@ -32,6 +32,6 @@ Gökay: 2h
 Deniz: 1h
 
 28.12.2023:
-Deniz: 4h
+Deniz: 3h
 
 
