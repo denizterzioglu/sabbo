@@ -7,6 +7,7 @@ Besprechung von Kapplan-Meier-Erstellung, Erstellung und Verteilung weiterführe
 <br>
 Am 28.12.2023 11:00Uhr: Besprechung des Notebooks
 - Über Alternativen für Vorhersage von Runtimes diskutieren
+Am 05.01.2023: Besprechung über Alternativen für SA
 
 
 Anforderungen an Notebook:
@@ -28,3 +29,9 @@ Anna: 7h
 
 27.12.2023:
 Gökay: 2h
+Deniz: 1h
+
+28.12.2023:
+Deniz: 4h
+
+
