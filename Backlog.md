@@ -52,6 +52,9 @@ Gökay: 2.5 h
 25.02.2024:
 Gökay: 3.5 h
 
+10.03.2024:
+Gökay: 4 h (Projektbericht)
+
 
 
 
