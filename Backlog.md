@@ -62,9 +62,16 @@ Deniz: 2.5h
 
 21.02.2024:
 Deniz: 3h
+Anna: 2.5h
+
+23.02.2024:
+Anna: 4h
 
 25.02.2024:
 Gökay: 3.5 h
+
+04.03.2024:
+Anna: 6h
 
 09.03.2024:
 Deniz: 2h (Projektbericht)
