@@ -86,8 +86,16 @@ Deniz: 0.5h (Projektbericht)
 25.03.2024:
 Deniz: 2h
 
+27.03.2024:
+Gökay: 3h (Projektbericht)
+
+28.03.2024:
+Gökay 4h
+
 29.03.2024:
 Deniz: 1.5h
+
+
 
 
 
