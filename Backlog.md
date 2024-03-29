@@ -83,6 +83,12 @@ Deniz: 2h (Projektbericht)
 11.03.2024:
 Deniz: 0.5h (Projektbericht)
 
+25.03.2024:
+Deniz: 2h
+
+29.03.2024:
+Deniz: 1.5h
+
 
 
 
