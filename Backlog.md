@@ -96,7 +96,7 @@ Gökay 4h
 Deniz: 1.5h
 
 03.04.2024:
-Deniz: 1h
+Deniz: 1,5h
 
 Termine:
 02.11.23 13 Uhr 2h
