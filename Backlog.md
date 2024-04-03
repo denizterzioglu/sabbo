@@ -95,6 +95,9 @@ Gökay 4h
 29.03.2024:
 Deniz: 1.5h
 
+03.04.2024:
+Deniz: 1h
+
 Termine:
 02.11.23 13 Uhr 2h
 14.11.23 mit Zaefferer 1h
